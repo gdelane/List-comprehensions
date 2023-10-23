@@ -1,2 +1,2 @@
 # List-comprehensions
-Examples of list comprehension in python
+An example of list comprehension used in python
