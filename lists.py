@@ -23,4 +23,4 @@ years = [1998, 1987, 2001, 1993, 2010, 1967, 1999]
 ages_2 = [2023 - year for year in years]
 print(ages_2)
 
-#Both solutions with give the same result.
+#Both solutions will give the same result.
